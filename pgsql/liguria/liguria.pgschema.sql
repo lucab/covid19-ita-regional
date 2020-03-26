@@ -16,6 +16,8 @@ CREATE table liguria
     asl3_colletta_terapia_intensiva_gauge INTEGER,
     asl3_scassi_gauge INTEGER,
     asl3_scassi_terapia_intensiva_gauge INTEGER,
+    asl3_micone_gauge INTEGER,
+    asl3_micone_terapia_intensiva_gauge INTEGER,
     asl4_gauge INTEGER,
     asl4_terapia_intensiva_gauge INTEGER,
     asl5_gauge INTEGER,
