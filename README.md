@@ -4,7 +4,7 @@ Regioni:
 
 (ITA): Gli snapshot sono attivi per 7 giorni. Per accedere alle dashboard, utente `public` e password `public`.
 
-(ENG): Snapshots expires after 7 day. Dashboards require login, username is `public` and password is `public`.
+(ENG): Snapshots expire after 7 day. Dashboards require login, username is `public` and password is `public`.
 
 [snapshot_er]: https://covid19-ita.lucabruno.net/snapshots/emilia-romagna
 [dashboard_er]: https://covid19-ita.lucabruno.net/dashboards/emilia-romagna
